@@ -16,3 +16,4 @@ Where the network is healthy, great things happen. Let’s be great together.
 #### Usage
 
 You can reference this repository: github.com/davedotdev/unfollowmelicence or copy the contents of the licence file and place it in your own project!
+You can also include: https://LicenceToUnfollow.me on your various bios, blogs and projects.
